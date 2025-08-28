@@ -14,7 +14,7 @@ import com.khyuna0.dto.MemberDto;
 import com.khyuna0.member.validation.MemberValidator;
 
 @Controller
-@RequestMapping("/member")
+//@RequestMapping("/member")
 public class MemberController {
 
     @RequestMapping("/memberJoin")
