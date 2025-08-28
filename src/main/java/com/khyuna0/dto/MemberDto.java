@@ -1,4 +1,4 @@
-package com.khyuna.dto;
+package com.khyuna0.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -17,7 +17,7 @@ public class MemberDto {
 	private String confirmPassword; // 확인용 비밀번호
 	private String name; // 회원 이름
 	private String email; // 회원 이메일
-	private int age; // 회원 나이
+	private Integer age; // 회원 나이
 
 	
 }
